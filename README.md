@@ -1,4 +1,4 @@
-<h1 align="center">Eu sou o Jaime Santos</h1>
+<h1 align="center">Eu sou Jaime Santos</h1>
 
 <p align="center">
   💻 Estudo <strong>Informática para Internet</strong> na <strong> ETEC <br>

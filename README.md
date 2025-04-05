@@ -125,7 +125,7 @@ Sou curioso por natureza, sempre em busca de novos aprendizados e desafios. Curt
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jaime-santos-64b206295)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-santos-64b206295)
 [![Instagram](https://img.shields.io/badge/@jaimesantos.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaimesantos.dev?igsh=Njk1a3puY29ndDlk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjaimesantos@gmail.com)
 

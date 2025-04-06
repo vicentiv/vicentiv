@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudo <strong>Informática para Internet</strong> na <strong> ETEC <br>
-  🎂 17 anos | Brasil <br>
+  🌌 17 anos | Brasil <br>
   🚀 Apaixonado por tecnologia, design e aprendizado contínuo
 </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Eu sou Jaime Santos</h1>
 
 <p align="center">
-  💻 Estudo <strong>Informática para Internet</strong> na <strong> ETEC <br>
+  💻  <strong>Informática para Internet</strong>  <br>
   🌌 17 anos | Brasil <br>
   🚀 Apaixonado por tecnologia, design e aprendizado contínuo
 </p>
